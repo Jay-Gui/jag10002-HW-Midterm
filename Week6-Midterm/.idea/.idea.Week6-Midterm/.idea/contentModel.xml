@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\guisa\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\guisa\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Week6-Midterm.2087706497.00" t="ExcludeRecursive" />
+    <e p="C:\Users\guisa\Documents\Code Lab 1\MyHomework\jag10002-HW-Week4\Week6-Midterm" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="highScores.txt" t="Include" />
+        <e p="Levels" t="Include">
+          <e p="Level0.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ASCII.cs" t="Include" />
+          <e p="BoidBehavior.cs" t="Include" />
+          <e p="BoidManager.cs" t="Include" />
+          <e p="CursorOff.cs" t="Include" />
+          <e p="FollowMouse.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Launcher.cs" t="Include" />
+          <e p="ObstacleScript.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+        </e>
+        <e p="StarSparrow" t="Include">
+          <e p="Readme" t="Include">
+            <e p="Readme Files" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ReadmeStarSparrowEditor.cs" t="Include" />
+                </e>
+                <e p="ReadmeStarSparrow.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Week6-Midterm.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
